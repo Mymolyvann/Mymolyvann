@@ -20,7 +20,7 @@ Je suis passionné par l'analyse de données et la création de solutions concr�
 
 ## Projet Récent
 
-(https://www.letudiant.fr/classements/classement-des-villes-etudiantes/vie-etudiante.html?page=2)  
+- **Classement des villes étudiantes 2025** : collecte et analyse des données du classement L'Étudiant pour visualiser la vie étudiante dans différentes villes. [Voir le classement](https://www.letudiant.fr/classements/classement-des-villes-etudiantes/vie-etudiante.html?page=2)
 
 
 ---
