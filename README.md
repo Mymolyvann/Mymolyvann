@@ -1,4 +1,4 @@
-# Salut, moi c'est [Ton Prénom] 👋
+# Salut, moi c'est Mymolyvann SAM 👋
 
 **Data Analyst | Passionné par les données et le web**
 
@@ -18,18 +18,16 @@ Je suis passionné par l'analyse de données et la création de solutions concr�
 
 ---
 
-## Projets récents
-- **Analyse des tendances du rap français (1980-2025)** : exploration textuelle d’un corpus de 3000+ documents, cooccurrences, clustering, et visualisations thématiques.  
-- **Recommandations YouTube et collaborations musicales** : étude statistique des featurings dans le rap français pour mesurer l'effet algorithmique sur la visibilité des artistes.  
-- **Classement des villes étudiantes 2025** : collecte et analyse des données du classement L'Étudiant pour visualiser la vie étudiante dans différentes villes. [Voir le classement](https://www.letudiant.fr/classements/classement-des-villes-etudiantes/vie-etudiante.html?page=2)  
-- **Web scraping & Data dashboards** : création de pipelines de collecte de données et visualisation interactive pour différents projets analytiques.
+## Projet Récent
+
+(https://www.letudiant.fr/classements/classement-des-villes-etudiantes/vie-etudiante.html?page=2)  
+
 
 ---
 
 ## Me contacter
-- LinkedIn : [Ton profil LinkedIn]  
-- Email : [Ton email]  
-- GitHub : [Ton GitHub]
+- LinkedIn : www.linkedin.com/in/mymolyvann-sam-068498254
+- Email : mymolyvann77@gmail.com
 
 ---
 
